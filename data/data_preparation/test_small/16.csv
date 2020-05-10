@@ -1,0 +1,17 @@
+word,label,bound,flag,radical,pinyin
+母,O,B,nr,母,mǔ
+义,O,M,nr,丶,yì
+明,O,E,nr,日,míng
+SPACE,O,S,x,UNK,UNK
+纪,O,B,nr,纟,jì
+立,O,E,nr,立,lì
+农,O,B,nr,冖,nóng
+宁,O,M,nr,宀,níng
+光,O,E,nr,儿,guāng
+李,O,B,nr,木,lǐ
+光,O,M,nr,儿,guāng
+伟,O,E,nr,亻,wěi
+SPACE,O,S,x,UNK,UNK
+单,O,B,nr,十,dān
+忠,O,M,nr,心,zhōng
+艳,O,E,nr,色,yàn
